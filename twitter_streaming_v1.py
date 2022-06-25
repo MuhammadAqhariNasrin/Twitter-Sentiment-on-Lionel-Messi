@@ -6,13 +6,13 @@ import csv, os
 
 # Authentication details. Obtain from https://dev.twitter.com/
 
-access_token = "4179084914-HhP7zYgGFeCh3agjtQ4juMJk4Grscl09tCPoS3N"
+access_token = ""
 
-access_token_secret = "KNaiLkg0BDnFNsAZtphNeAp1G0kT9GVMyqEFA1Dmofv8U"
+access_token_secret = ""
 
-consumer_key = "8fMYz8uFtXCRZJK2luOfkrYAV"
+consumer_key = ""
 
-consumer_secret = "D8tSn8NxuhPzpQJN33LAusuYAmfLgZpt8vlJqGtnBJraaKyAb5"
+consumer_secret = ""
 
 
 # This is the listener, resposible for receiving data
